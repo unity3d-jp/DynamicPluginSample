@@ -1,2 +1,3 @@
 # DynamicPluginSample
-Dynamic load/unload plugin on Editor sample.
+
+This is an example project for using "dynamic" plugin on Editor.
